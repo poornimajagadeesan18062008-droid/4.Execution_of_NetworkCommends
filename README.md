@@ -65,12 +65,5 @@ arp
 systeminfo
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5544646-a445-4ab9-9ca6-8868df7487b7" />
 
-systeminfo
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5544646-a445-4ab9-9ca6-8868df7487b7" />
-
-
-
-
-
 ## Result
 Thus Execution of Network commands Performed 
